@@ -1,0 +1,17 @@
+{
+  "name": "demo-credit-app",
+  "version": "1.0.0",
+  "main": "data.js",
+  "scripts": {
+    "test": "Echo \"error not specified\" && exit 1 ",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "auther": "Chris Wright",
+  "licence": "ISC",
+  "description": "",
+  "dependancies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
